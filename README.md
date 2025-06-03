@@ -22,14 +22,17 @@
 7. Проверяем, существует ли связь между машинами с помощью команды ```ping <ip-address>```.
 
 А:
+
 ![](screenshots/12.png)
 ![](screenshots/13.png)
 
 Б:
+
 ![](screenshots/14.png)
 ![](screenshots/15.png)
 
 В:
+
 ![](screenshots/16.png)
 ![](screenshots/17.png)
 
